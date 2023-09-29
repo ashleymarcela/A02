@@ -41,11 +41,13 @@ Glossary
       saves the changes you've made, kind of like a screenshot of everytime you change your repository
 
 ####    Fetch:
-      a command that recovers new work 
+      a command that downloads all data from a project to your computer  
 
 ####    GIT:
+      version control system that manages and keeps track of your source code history; it lets you manage Git repositories
 
 ####    GitHub:
+      an online platform that hosts software projects using Git, a version control system that tracks changes to code
 
 ####    Merge:
 
