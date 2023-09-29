@@ -50,13 +50,17 @@ Glossary
       an online platform that hosts software projects using Git, a version control system that tracks changes to code
 
 ####    Merge:
-
-####    Merge Conflict:
+      a command that allows you to combine changes from one branch to other branches, creating a new commit including the changes from all merged branches
 
 ####    Push:
+      uploading a GitHub repository 
 
 ####    Pull:
+      updates the local version of a repository from a remote repository; command that fetches and merges changes from a remote server to your server
 
 ####    Remote:
+      the URL that accesses the place where your code is stored 
 
 ####    Repository:
+      
+      
