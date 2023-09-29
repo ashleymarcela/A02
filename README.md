@@ -28,29 +28,33 @@ GitHub Setup
           Select Add, this way, it adds to the local file system
 
     Make your changes
-
+ 
 Glossary
 
-    Branch:
+####    Branch:
+       allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository
 
-    Clone:
+####    Clone: 
+      creates a copy of a specific repository or branch within a repository.
+      
+####    Commit:
+      saves the changes you've made, kind of like a screenshot of everytime you change your repository
 
-    Commit:
+####    Fetch:
+      a command that recovers new work 
 
-    Fetch:
+####    GIT:
 
-    GIT:
+####    GitHub:
 
-    GitHub:
+####    Merge:
 
-    Merge:
+####    Merge Conflict:
 
-    Merge Conflict:
+####    Push:
 
-    Push:
+####    Pull:
 
-    Pull:
+####    Remote:
 
-    Remote:
-
-    Repository:
+####    Repository:
